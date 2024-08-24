@@ -11,8 +11,11 @@ Github Developers App is a SwiftUI-based application that allows users to search
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Developer Details](screenshots/developer_details.png)
+  Screen1  | Screen2            |  Screen3  
+:-------------------------|:-------------------------:|:-------------------------:
+![](https://github.com/muhammedelsami/SwiftUI_GithubDevelopersApp/blob/main/Screens/home.jpg)   |   ![](https://github.com/muhammedelsami/SwiftUI_GithubDevelopersApp/blob/main/Screens/list.jpg)  |  ![](https://github.com/muhammedelsami/SwiftUI_GithubDevelopersApp/blob/main/Screens/detail.jpg)|
+
+---------------------------------------------------------
 
 ## Installation
 
